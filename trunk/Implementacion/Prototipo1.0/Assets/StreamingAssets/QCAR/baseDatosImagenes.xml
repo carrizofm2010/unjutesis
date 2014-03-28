@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ImageTargeBoton" size="607.000000 429.073120" >
+	  <VirtualButton name="anterior" rectangle="-1.91 -1.24 -0.75 -1.45" enabled="true" sensitivity="low" />
+	  <VirtualButton name="siguiente" rectangle="0.87 -1.26 2.06 -1.48" enabled="true" sensitivity="low" />
+	  <VirtualButton name="botonGuardar" rectangle="-0.53 -1.42 0.66 -1.61" enabled="true" sensitivity="low" />
+    </ImageTarget>
+  </Tracking>
+</QCARConfig>
