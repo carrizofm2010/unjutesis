@@ -1,0 +1,4 @@
+C:\Users\Dark\Documents\Visual Studio 2010\Projects\Crain\Clases\bin\Debug\Clases.dll
+C:\Users\Dark\Documents\Visual Studio 2010\Projects\Crain\Clases\bin\Debug\Clases.pdb
+C:\Users\Dark\Documents\Visual Studio 2010\Projects\Crain\Clases\obj\Debug\Clases.dll
+C:\Users\Dark\Documents\Visual Studio 2010\Projects\Crain\Clases\obj\Debug\Clases.pdb

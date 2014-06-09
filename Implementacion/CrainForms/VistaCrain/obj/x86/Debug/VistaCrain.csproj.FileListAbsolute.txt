@@ -1,0 +1,9 @@
+C:\Users\Dark\Documents\Visual Studio 2010\Projects\CrainForms\VistaCrain\bin\Debug\VistaCrain.exe
+C:\Users\Dark\Documents\Visual Studio 2010\Projects\CrainForms\VistaCrain\bin\Debug\VistaCrain.pdb
+C:\Users\Dark\Documents\Visual Studio 2010\Projects\CrainForms\VistaCrain\obj\x86\Debug\VistaCrain.Properties.Resources.resources
+C:\Users\Dark\Documents\Visual Studio 2010\Projects\CrainForms\VistaCrain\obj\x86\Debug\VistaCrain.csproj.GenerateResource.Cache
+C:\Users\Dark\Documents\Visual Studio 2010\Projects\CrainForms\VistaCrain\obj\x86\Debug\VistaCrain.exe
+C:\Users\Dark\Documents\Visual Studio 2010\Projects\CrainForms\VistaCrain\obj\x86\Debug\VistaCrain.pdb
+C:\Users\Dark\Documents\Visual Studio 2010\Projects\CrainForms\VistaCrain\bin\Debug\Clases.dll
+C:\Users\Dark\Documents\Visual Studio 2010\Projects\CrainForms\VistaCrain\bin\Debug\Clases.pdb
+C:\Users\Dark\Documents\Visual Studio 2010\Projects\CrainForms\VistaCrain\obj\x86\Debug\VistaCrain.csprojResolveAssemblyReference.cache
