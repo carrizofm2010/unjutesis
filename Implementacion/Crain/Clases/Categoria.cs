@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Clases
 {
-    public class Categoria
+    class Categoria
     {
         private int idCategoria;
         private int nombreCategoria;
@@ -14,10 +14,11 @@ namespace Clases
         {
             get
             {
-                throw new System.NotImplementedException();
+                return idCategoria;
             }
             set
             {
+                idCategoria = value;
             }
         }
 
@@ -25,10 +26,11 @@ namespace Clases
         {
             get
             {
-                throw new System.NotImplementedException();
+                return nombreCategoria;
             }
             set
             {
+                nombreCategoria = value;
             }
         }
     }

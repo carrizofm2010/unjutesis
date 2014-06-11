@@ -7,3 +7,25 @@ C:\Users\Dark\Documents\Visual Studio 2010\Projects\CrainForms\VistaCrain\obj\x8
 C:\Users\Dark\Documents\Visual Studio 2010\Projects\CrainForms\VistaCrain\bin\Debug\Clases.dll
 C:\Users\Dark\Documents\Visual Studio 2010\Projects\CrainForms\VistaCrain\bin\Debug\Clases.pdb
 C:\Users\Dark\Documents\Visual Studio 2010\Projects\CrainForms\VistaCrain\obj\x86\Debug\VistaCrain.csprojResolveAssemblyReference.cache
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\CrainForms\VistaCrain\obj\x86\Debug\VistaCrain.exe
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\CrainForms\VistaCrain\obj\x86\Debug\VistaCrain.pdb
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\CrainForms\VistaCrain\bin\Debug\VistaCrain.exe
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\CrainForms\VistaCrain\bin\Debug\VistaCrain.pdb
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\CrainForms\VistaCrain\bin\Debug\Clases.dll
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\CrainForms\VistaCrain\bin\Debug\Clases.pdb
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\CrainForms\VistaCrain\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\CrainForms\VistaCrain\obj\x86\Debug\VistaCrain.Properties.Resources.resources
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\CrainForms\VistaCrain\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\CrainForms\VistaCrain\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\CrainForms\VistaCrain\bin\Debug\antlr.runtime.dll
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\CrainForms\VistaCrain\bin\Debug\Antlr3.Runtime.dll
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\CrainForms\VistaCrain\bin\Debug\Common.Logging.dll
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\CrainForms\VistaCrain\bin\Debug\Iesi.Collections.dll
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\CrainForms\VistaCrain\bin\Debug\LinFu.DynamicProxy.dll
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\CrainForms\VistaCrain\bin\Debug\nunit.core.dll
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\CrainForms\VistaCrain\bin\Debug\nunit.framework.dll
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\CrainForms\VistaCrain\bin\Debug\Spring.Aop.dll
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\CrainForms\VistaCrain\bin\Debug\Spring.Core.dll
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\CrainForms\VistaCrain\bin\Debug\Iesi.Collections.xml
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\CrainForms\VistaCrain\bin\Debug\Spring.Aop.xml
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\CrainForms\VistaCrain\bin\Debug\Spring.Core.xml
