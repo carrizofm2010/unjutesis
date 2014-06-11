@@ -14,5 +14,12 @@
       <FileName>Administrador.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="Clases.Categoria">
+    <Position X="3.75" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQBAAAEAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Categoria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>
