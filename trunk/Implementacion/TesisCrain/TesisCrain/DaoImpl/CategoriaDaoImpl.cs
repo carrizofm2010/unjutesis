@@ -10,7 +10,7 @@ using TesisCrain.Config;
 
 namespace TesisCrain.DaoImpl
 {
-    public class CategoriaDaoImpl:CategoriaDao
+    public class CategoriaDaoImpl: CategoriaDao
     {
         public void saveCategoria(Categoria categoria) {
             

@@ -34,9 +34,18 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="DaoImpl\AdministradorDaoImpl.cs" />
+    <Compile Include="DaoImpl\DiarioDaoImpl.cs" />
+    <Compile Include="DaoImpl\VideoDaoImpl.cs" />
+    <Compile Include="Dao\AdministradorDao.cs" />
+    <Compile Include="Dao\DiarioDao.cs" />
+    <Compile Include="Dao\VideoDao.cs" />
+    <Compile Include="Dominio\Adminstrador.cs" />
     <Compile Include="Dominio\Categoria.cs" />
     <Compile Include="Dao\CategoriaDao.cs" />
     <Compile Include="DaoImpl\CategoriaDaoImpl.cs" />
+    <Compile Include="Dominio\Diario.cs" />
+    <Compile Include="Dominio\Video.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Config\NHibernateManager.cs" />
@@ -50,6 +59,9 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="ClassDiagram3.cd" />
     <None Include="Recursos\nhibernate-configuration.xsd">
       <SubType>Designer</SubType>
     </None>
