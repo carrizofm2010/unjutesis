@@ -1,0 +1,21 @@
+  public bool verificarAdministrador(Administrador administrador)
+        {
+            System.Collections.IList siteList; 
+       
+            NHibernateManager manager = new NHibernateManager();
+    
+            using (ISession session = manager.Session)
+            {
+                ICriteria sc = session.CreateCriteria(typeof(Administrador));
+                siteList = sc.List();
+                Console.Write("paso x aki" + ((Administrador)siteList[0]).ApellidoAdministrador);
+                Console.ReadKey();
+                Console.Write(siteList);
+                session.Close();
+            }
+            
+            
+
+            return true;
+
+        }
