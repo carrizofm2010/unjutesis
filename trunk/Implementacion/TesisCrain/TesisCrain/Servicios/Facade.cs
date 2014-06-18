@@ -27,6 +27,15 @@ namespace TesisCrain.Servicios
             videoDaoImpl.bajaVideo(video);
         }
         //Servicios de diario
+        public void altaDiario(Diario diario) {
+            diarioDaoImpl.altaDiario(diario);
+        }
+        public void modificarDiario(Diario diario) {
+            diarioDaoImpl.modificarDiario(diario);
+        }
+        public void bajaDiario(Diario diario) {
+            diarioDaoImpl.bajaDiario(diario);
+        }
         //Servicios de categoria
         //Servicios de administrador
         
