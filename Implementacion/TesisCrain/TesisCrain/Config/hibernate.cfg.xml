@@ -20,5 +20,6 @@
     <mapping resource="TesisCrain.Mapping.categoria.hbm.xml" assembly="TesisCrain" />
     <mapping resource="TesisCrain.Mapping.video.hbm.xml" assembly="TesisCrain" />
     <mapping resource="TesisCrain.Mapping.diario.hbm.xml" assembly="TesisCrain" />
+    <mapping resource="TesisCrain.Mapping.administrador.hbm.xml" assembly="TesisCrain" />
   </session-factory>
 </hibernate-configuration>
