@@ -8,6 +8,6 @@ namespace TesisCrain.Dao
 {
     public interface AdministradorDao
     {
-        Boolean verificarAdministrador(Administrador administrador);
+        bool verificarAdministrador(Administrador administrador);
     }
 }

@@ -11,6 +11,21 @@ C:\Users\walter\Desktop\ProyectoServidor\TesisCrain\TesisCrain\bin\Debug\NHibern
 C:\Users\walter\Desktop\ProyectoServidor\TesisCrain\TesisCrain\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\walter\Desktop\ProyectoServidor\TesisCrain\TesisCrain\obj\x86\Debug\TesisCrain.exe
 C:\Users\walter\Desktop\ProyectoServidor\TesisCrain\TesisCrain\obj\x86\Debug\TesisCrain.pdb
+<<<<<<< .mine
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\TesisCrain\TesisCrain\obj\x86\Debug\TesisCrain.exe
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\TesisCrain\TesisCrain\obj\x86\Debug\TesisCrain.pdb
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\TesisCrain\TesisCrain\bin\Debug\Mapping\categoria.hbm.xml
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\TesisCrain\TesisCrain\bin\Debug\Config\hibernate.cfg.xml
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\TesisCrain\TesisCrain\bin\Debug\TesisCrain.exe
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\TesisCrain\TesisCrain\bin\Debug\TesisCrain.pdb
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\TesisCrain\TesisCrain\bin\Debug\Iesi.Collections.dll
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\TesisCrain\TesisCrain\bin\Debug\NHibernate.dll
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\TesisCrain\TesisCrain\bin\Debug\Iesi.Collections.pdb
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\TesisCrain\TesisCrain\bin\Debug\Iesi.Collections.xml
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\TesisCrain\TesisCrain\bin\Debug\NHibernate.pdb
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\TesisCrain\TesisCrain\bin\Debug\NHibernate.xml
+C:\Users\walter\Desktop\unjutesis\trunk\Implementacion\TesisCrain\TesisCrain\obj\x86\Debug\ResolveAssemblyReference.cache
+=======
 C:\Users\Dark\Desktop\unjutesis\trunk\Implementacion\TesisCrain\TesisCrain\obj\x86\Debug\TesisCrain.exe
 C:\Users\Dark\Desktop\unjutesis\trunk\Implementacion\TesisCrain\TesisCrain\obj\x86\Debug\TesisCrain.pdb
 C:\Users\Dark\Desktop\unjutesis\trunk\Implementacion\TesisCrain\TesisCrain\bin\Debug\Mapping\categoria.hbm.xml
@@ -24,3 +39,4 @@ C:\Users\Dark\Desktop\unjutesis\trunk\Implementacion\TesisCrain\TesisCrain\bin\D
 C:\Users\Dark\Desktop\unjutesis\trunk\Implementacion\TesisCrain\TesisCrain\bin\Debug\NHibernate.pdb
 C:\Users\Dark\Desktop\unjutesis\trunk\Implementacion\TesisCrain\TesisCrain\bin\Debug\NHibernate.xml
 C:\Users\Dark\Desktop\unjutesis\trunk\Implementacion\TesisCrain\TesisCrain\obj\x86\Debug\TesisCrain.csprojResolveAssemblyReference.cache
+>>>>>>> .r43
