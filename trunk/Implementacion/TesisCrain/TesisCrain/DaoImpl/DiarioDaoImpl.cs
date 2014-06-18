@@ -9,8 +9,8 @@ namespace TesisCrain.DaoImpl
 {
     public class DiarioDaoImpl: DiarioDao
     {
-        public void altaVideo(Video video) { }
-        public void modificarVideo(Video video) { }
-        public void bajaVideo(Video video) { }
+        public void altaDiario(Diario diario) { }
+        public void modificarDiario(Diario diario) { }
+        public void bajaDiario(Diario diario) { }
     }
 }

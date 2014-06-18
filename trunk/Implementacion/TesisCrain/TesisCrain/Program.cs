@@ -12,7 +12,7 @@ namespace TesisCrain
         static void Main(string[] args)
         {
           //  PruebaConexion prueba = new PruebaConexion();
-            Categoria categoria = new Categoria(3, "Minutas");
+            Categoria categoria = new Categoria(3, "walter");
             CategoriaDaoImpl daoImpl = new CategoriaDaoImpl();
             daoImpl.saveCategoria(categoria);
         }

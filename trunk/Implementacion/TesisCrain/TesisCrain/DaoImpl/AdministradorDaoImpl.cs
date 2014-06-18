@@ -9,6 +9,6 @@ namespace TesisCrain.DaoImpl
 {
     public class AdministradorDaoImpl:AdministradorDao
     {
-        public bool verificarAdministrador(Administrador administrador);
+        bool verificarAdministrador(Administrador administrador) { }
     }
 }
