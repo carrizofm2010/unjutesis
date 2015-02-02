@@ -1,3 +1,0 @@
-jitter  
-SDK
-QR
